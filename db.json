@@ -1,0 +1,37 @@
+{
+events: [
+        {
+          id: 5928101,
+          caterogy: "animal welfare",
+          title: "Сapybar  Party",
+          description: "Find your new friend at this event",
+          location: 'Boss Town',
+          date: 'January 28, 2022',
+          time: '20:00',
+          petsAllowed: true,
+          organizer: 'Kaban_chik'
+        },
+        {
+          id: 5928101,
+          caterogy: "hacker competiton",
+          title: "Cyber Hacker",
+          description: "A competition between all the heckers",
+          location: 'Hatsker Town',
+          date: 'October 6, 2022',
+          time: '8:55',
+          petsAllowed: true,
+          organizer: 'Samii_Objectivnii'
+        },
+        {
+          id: 5928101,
+          caterogy: "race",
+          title: "Horse Races",
+          description: "Free beer for everyone",
+          location: 'Wild West',
+          date: 'August 24, 1884',
+          time: '12:00',
+          petsAllowed: true,
+          organizer: 'YoB_WoC'
+        }
+      ]
+}
