@@ -31,7 +31,7 @@
           date: 'August 24, 1884',
           time: '12:00',
           petsAllowed: true,
-          organizer: 'YoB_WoC'
+          organizer: "YoB_WoC"
         }
       ]
 }
